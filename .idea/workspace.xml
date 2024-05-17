@@ -5,70 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6970092a-7d25-4048-8ef9-6a63cb4a2644" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GLPI-main-TEST.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GLPI-main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Entity/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Entity/Ticket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/GlpiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Reposetories/RoleRepos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Reposetories/TicketRepos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Reposetories/UserRepos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Services/TicketServ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Services/TicketServImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Services/UserServ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/Services/UserServImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/security/SecurityController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/security/securityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/java/ma/emsi/glpi/web/UserRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/src/test/java/ma/emsi/glpi/GlpiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Entity/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Entity/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/GlpiApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Reposetories/RoleRepos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Reposetories/TicketRepos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Reposetories/UserRepos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Services/TicketServ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Services/TicketServImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Services/UserServ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/Services/UserServImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/security/SecurityController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/security/securityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/web/AddRoleForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/classes/ma/emsi/glpi/web/UserRestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI/target/test-classes/ma/emsi/glpi/GlpiApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLPI_frontend/glpi_app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glpi_" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/GLPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/GLPI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/DTOs/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/DTOs/UserDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/Reposetories/TicketRepos.java" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/Reposetories/TicketRepos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/Reposetories/UserRepos.java" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/Reposetories/UserRepos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/Services/UserServ.java" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/Services/UserServ.java" afterDir="false" />
@@ -83,10 +23,15 @@
       <change beforePath="$PROJECT_DIR$/glpi_/GLPI/target/classes/ma/emsi/glpi/web/UserRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/GLPI/target/classes/ma/emsi/glpi/web/UserRestController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/LoginComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/LoginComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/TicketEditAdForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/TicketEditAdForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/adminDashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/adminDashboard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/navBarComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/navBarComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/technicienComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/technicienComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/ticketComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/ticketComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/userDetailsComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/src/components/userDetailsComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glpi_/glpi_fe/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/glpi_fe/src/index.js" afterDir="false" />
     </list>
     <list id="df95e450-f37c-4fa1-baec-1e38d3f599e8" name="Changes by admin" comment="">
       <change beforePath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/Services/UserServ.java" beforeDir="false" afterPath="$PROJECT_DIR$/glpi_/GLPI/src/main/java/ma/emsi/glpi/Services/UserServ.java" afterDir="false" />
@@ -118,34 +63,34 @@
       </ranges>
     </file>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gUwIxsDQn7Hr9A10qYLDvZPG8E" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.GlpiApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.GlpiApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="GlpiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -172,7 +117,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715765387466</updated>
-      <workItem from="1715765388592" duration="15772000" />
+      <workItem from="1715765388592" duration="15984000" />
+      <workItem from="1715791852719" duration="140000" />
+      <workItem from="1715801351582" duration="1304000" />
+      <workItem from="1715943942405" duration="7565000" />
     </task>
     <servers />
   </component>
